@@ -1,0 +1,282 @@
+[
+	{
+		"deleteFlag": "0",
+		"createUserId": "0",
+		"enumOptionCode": "admin",
+		"updateUserId": "0",
+		"sortOrder": "1",
+		"enumTypeCode": "userLevel",
+		"updateTimestamp": "20170116221450669",
+		"createTimestamp": "20170116221450669"
+	},
+	{
+		"deleteFlag": "0",
+		"createUserId": "0",
+		"enumOptionCode": "user",
+		"updateUserId": "0",
+		"sortOrder": "2",
+		"enumTypeCode": "userLevel",
+		"updateTimestamp": "20170116221450676",
+		"createTimestamp": "20170116221450676"
+	},
+	{
+		"deleteFlag": "0",
+		"createUserId": "0",
+		"enumOptionCode": "guest",
+		"updateUserId": "0",
+		"sortOrder": "3",
+		"enumTypeCode": "userLevel",
+		"updateTimestamp": "20170116221450687",
+		"createTimestamp": "20170116221450687"
+	},
+	{
+		"deleteFlag": "0",
+		"createUserId": "0",
+		"enumOptionCode": "developer",
+		"updateUserId": "0",
+		"sortOrder": "0",
+		"enumTypeCode": "userLevel",
+		"updateTimestamp": "20170116221450697",
+		"createTimestamp": "20170116221450697"
+	},
+	{
+		"deleteFlag": "0",
+		"createUserId": "0",
+		"enumOptionCode": "develop",
+		"updateUserId": "0",
+		"sortOrder": "2",
+		"enumTypeCode": "section",
+		"updateTimestamp": "20170116221450704",
+		"createTimestamp": "20170116221450704"
+	},
+	{
+		"deleteFlag": "0",
+		"createUserId": "0",
+		"enumOptionCode": "sales",
+		"updateUserId": "0",
+		"sortOrder": "1",
+		"enumTypeCode": "section",
+		"updateTimestamp": "20170116221450716",
+		"createTimestamp": "20170116221450716"
+	},
+	{
+		"deleteFlag": "0",
+		"createUserId": "0",
+		"enumOptionCode": "generalAffairs",
+		"updateUserId": "0",
+		"sortOrder": "0",
+		"enumTypeCode": "section",
+		"updateTimestamp": "20170116221450722",
+		"createTimestamp": "20170116221450722"
+	},
+	{
+		"deleteFlag": "0",
+		"createUserId": "0",
+		"enumOptionCode": "staff",
+		"updateUserId": "0",
+		"sortOrder": "0",
+		"enumTypeCode": "post",
+		"updateTimestamp": "20170116221450729",
+		"createTimestamp": "20170116221450729"
+	},
+	{
+		"deleteFlag": "0",
+		"createUserId": "0",
+		"enumOptionCode": "manager",
+		"updateUserId": "0",
+		"sortOrder": "2",
+		"enumTypeCode": "post",
+		"updateTimestamp": "20170116221450734",
+		"createTimestamp": "20170116221450734"
+	},
+	{
+		"deleteFlag": "0",
+		"createUserId": "0",
+		"enumOptionCode": "generalManager",
+		"updateUserId": "0",
+		"sortOrder": "3",
+		"enumTypeCode": "post",
+		"updateTimestamp": "20170116221450739",
+		"createTimestamp": "20170116221450739"
+	},
+	{
+		"deleteFlag": "0",
+		"createUserId": "0",
+		"enumOptionCode": "chief",
+		"updateUserId": "0",
+		"sortOrder": "1",
+		"enumTypeCode": "post",
+		"updateTimestamp": "20170116221450743",
+		"createTimestamp": "20170116221450743"
+	},
+	{
+		"deleteFlag": "0",
+		"createUserId": "0",
+		"enumOptionCode": "exectiveManager",
+		"updateUserId": "0",
+		"sortOrder": "3",
+		"enumTypeCode": "post",
+		"updateTimestamp": "20170116221450748",
+		"createTimestamp": "20170116221450748"
+	},
+	{
+		"deleteFlag": "0",
+		"createUserId": "0",
+		"enumOptionCode": "page",
+		"updateUserId": "0",
+		"sortOrder": "0",
+		"enumTypeCode": "webCompType",
+		"updateTimestamp": "20170116221450849",
+		"createTimestamp": "20170116221450849"
+	},
+	{
+		"deleteFlag": "0",
+		"createUserId": "0",
+		"enumOptionCode": "form",
+		"updateUserId": "0",
+		"sortOrder": "2",
+		"enumTypeCode": "webCompType",
+		"updateTimestamp": "20170116221450853",
+		"createTimestamp": "20170116221450853"
+	},
+	{
+		"deleteFlag": "0",
+		"createUserId": "0",
+		"enumOptionCode": "table",
+		"updateUserId": "0",
+		"sortOrder": "3",
+		"enumTypeCode": "webCompType",
+		"updateTimestamp": "20170116221450858",
+		"createTimestamp": "20170116221450858"
+	},
+	{
+		"deleteFlag": "0",
+		"createUserId": "0",
+		"enumOptionCode": "field",
+		"updateUserId": "0",
+		"sortOrder": "4",
+		"enumTypeCode": "webCompType",
+		"updateTimestamp": "20170116221450863",
+		"createTimestamp": "20170116221450863"
+	},
+	{
+		"deleteFlag": "0",
+		"createUserId": "0",
+		"enumOptionCode": "dialog",
+		"updateUserId": "0",
+		"sortOrder": "1",
+		"enumTypeCode": "webCompType",
+		"updateTimestamp": "20170116221450869",
+		"createTimestamp": "20170116221450869"
+	},
+	{
+		"deleteFlag": "0",
+		"createUserId": "0",
+		"enumOptionCode": "validator",
+		"updateUserId": "0",
+		"sortOrder": "5",
+		"enumTypeCode": "webCompType",
+		"updateTimestamp": "20170116221450874",
+		"createTimestamp": "20170116221450874"
+	},
+	{
+		"deleteFlag": "0",
+		"createUserId": "0",
+		"enumOptionCode": "error",
+		"updateUserId": "0",
+		"sortOrder": "1",
+		"enumTypeCode": "overwriteMode",
+		"updateTimestamp": "20170116221450879",
+		"createTimestamp": "20170116221450879"
+	},
+	{
+		"deleteFlag": "0",
+		"createUserId": "0",
+		"enumOptionCode": "skip",
+		"updateUserId": "0",
+		"sortOrder": "2",
+		"enumTypeCode": "overwriteMode",
+		"updateTimestamp": "20170116221450884",
+		"createTimestamp": "20170116221450884"
+	},
+	{
+		"deleteFlag": "0",
+		"createUserId": "0",
+		"enumOptionCode": "force",
+		"updateUserId": "0",
+		"sortOrder": "3",
+		"enumTypeCode": "overwriteMode",
+		"updateTimestamp": "20170116221450888",
+		"createTimestamp": "20170116221450888"
+	},
+	{
+		"deleteFlag": "0",
+		"createUserId": "1000",
+		"enumOptionCode": "1",
+		"updateUserId": "1000",
+		"sortOrder": "0",
+		"enumTypeCode": "sampleSelect",
+		"updateTimestamp": "20170118174351178",
+		"createTimestamp": "20170118174351178"
+	},
+	{
+		"deleteFlag": "0",
+		"createUserId": "1000",
+		"enumOptionCode": "2",
+		"updateUserId": "1000",
+		"sortOrder": "1",
+		"enumTypeCode": "sampleSelect",
+		"updateTimestamp": "20170118174351179",
+		"createTimestamp": "20170118174351179"
+	},
+	{
+		"deleteFlag": "0",
+		"createUserId": "1000",
+		"enumOptionCode": "3",
+		"updateUserId": "1000",
+		"sortOrder": "2",
+		"enumTypeCode": "sampleSelect",
+		"updateTimestamp": "20170118174351180",
+		"createTimestamp": "20170118174351180"
+	},
+	{
+		"deleteFlag": "0",
+		"createUserId": "1000",
+		"enumOptionCode": "file",
+		"updateUserId": "1000",
+		"sortOrder": "0",
+		"enumTypeCode": "fileType",
+		"updateTimestamp": "20170125164306096",
+		"createTimestamp": "20170125164306096"
+	},
+	{
+		"deleteFlag": "0",
+		"createUserId": "1000",
+		"enumOptionCode": "image",
+		"updateUserId": "1000",
+		"sortOrder": "1",
+		"enumTypeCode": "fileType",
+		"updateTimestamp": "20170125164306098",
+		"createTimestamp": "20170125164306098"
+	},
+	{
+		"deleteFlag": "0",
+		"createUserId": "1000",
+		"enumOptionCode": "video",
+		"updateUserId": "1000",
+		"sortOrder": "2",
+		"enumTypeCode": "fileType",
+		"updateTimestamp": "20170125164306100",
+		"createTimestamp": "20170125164306100"
+	},
+	{
+		"deleteFlag": "0",
+		"createUserId": "1000",
+		"enumOptionCode": "audio",
+		"updateUserId": "1000",
+		"sortOrder": "3",
+		"enumTypeCode": "fileType",
+		"updateTimestamp": "20170125164306101",
+		"createTimestamp": "20170125164306101"
+	}
+]
