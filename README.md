@@ -8,11 +8,11 @@ dataforms.jarで作成したサンプルアプリケーションです。
 
 ## Install
 ### 開発環境の構築
-[リリース](https://github.com/takayanagi2087/dfbbs/releases)から、dfbbs_xxx.warファイルをダウンロードし、
-dataforms.jarのdfblank_xxx.warと同様の手順で、Eclipseプロジェクトにインポートしてください。  
+[リリース](https://github.com/takayanagi2087/dfbbs/releases)から、dfbbsXXXX.warファイルをダウンロードし、
+dataforms.jarのdfblankXXXX.warと同様の手順で、Eclipseプロジェクトにインポートしてください。  
 
 ### 実効環境の構築
-[runwarのリリース](https://github.com/takayanagi2087/runwar/releases)から、runwarxxx.zipファイルをダウンロードし、
+[runwarのリリース](https://github.com/takayanagi2087/runwar/releases)から、runwarXXXX.zipファイルをダウンロードし、
 適切なフォルダに展開してください。  
 展開されたフォルダ中のrunwar.jarをダブルクリックすると、簡易アプリケーションサーバが起動し、
 設定されたブラウザが起動します。  
