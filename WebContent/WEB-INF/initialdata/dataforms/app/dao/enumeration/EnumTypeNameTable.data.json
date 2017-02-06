@@ -6,8 +6,8 @@
 		"updateUserId": "0",
 		"langCode": "ja",
 		"enumTypeCode": "userLevel",
-		"updateTimestamp": "20170116221450932",
-		"createTimestamp": "20170116221450932"
+		"updateTimestamp": "20170203154502432",
+		"createTimestamp": "20170203154502359"
 	},
 	{
 		"enumTypeName": "User Level",
@@ -16,8 +16,8 @@
 		"updateUserId": "0",
 		"langCode": "default",
 		"enumTypeCode": "userLevel",
-		"updateTimestamp": "20170116221450939",
-		"createTimestamp": "20170116221450939"
+		"updateTimestamp": "20170203154502441",
+		"createTimestamp": "20170203154502363"
 	},
 	{
 		"enumTypeName": "Menu Group",
@@ -26,8 +26,8 @@
 		"updateUserId": "0",
 		"langCode": "default",
 		"enumTypeCode": "menuGroup",
-		"updateTimestamp": "20170116221450944",
-		"createTimestamp": "20170116221450944"
+		"updateTimestamp": "20170203154502450",
+		"createTimestamp": "20170203154502369"
 	},
 	{
 		"enumTypeName": "メニューグループ",
@@ -36,8 +36,8 @@
 		"updateUserId": "0",
 		"langCode": "ja",
 		"enumTypeCode": "menuGroup",
-		"updateTimestamp": "20170116221450950",
-		"createTimestamp": "20170116221450950"
+		"updateTimestamp": "20170203154502459",
+		"createTimestamp": "20170203154502379"
 	},
 	{
 		"enumTypeName": "Enumeration Group",
@@ -46,8 +46,8 @@
 		"updateUserId": "0",
 		"langCode": "default",
 		"enumTypeCode": "enumGroup",
-		"updateTimestamp": "20170116221450954",
-		"createTimestamp": "20170116221450954"
+		"updateTimestamp": "20170203154502494",
+		"createTimestamp": "20170203154502388"
 	},
 	{
 		"enumTypeName": "列挙型グループ",
@@ -56,8 +56,8 @@
 		"updateUserId": "0",
 		"langCode": "ja",
 		"enumTypeCode": "enumGroup",
-		"updateTimestamp": "20170116221450959",
-		"createTimestamp": "20170116221450959"
+		"updateTimestamp": "20170203154502505",
+		"createTimestamp": "20170203154502396"
 	},
 	{
 		"enumTypeName": "部署",
@@ -66,8 +66,8 @@
 		"updateUserId": "0",
 		"langCode": "ja",
 		"enumTypeCode": "section",
-		"updateTimestamp": "20170116221450965",
-		"createTimestamp": "20170116221450965"
+		"updateTimestamp": "20170203154502515",
+		"createTimestamp": "20170203154502402"
 	},
 	{
 		"enumTypeName": "Section",
@@ -76,8 +76,8 @@
 		"updateUserId": "0",
 		"langCode": "default",
 		"enumTypeCode": "section",
-		"updateTimestamp": "20170116221450969",
-		"createTimestamp": "20170116221450969"
+		"updateTimestamp": "20170203154502520",
+		"createTimestamp": "20170203154502409"
 	},
 	{
 		"enumTypeName": "Post",
@@ -86,8 +86,8 @@
 		"updateUserId": "0",
 		"langCode": "default",
 		"enumTypeCode": "post",
-		"updateTimestamp": "20170116221450973",
-		"createTimestamp": "20170116221450973"
+		"updateTimestamp": "20170203154502526",
+		"createTimestamp": "20170203154502411"
 	},
 	{
 		"enumTypeName": "役職",
@@ -96,8 +96,8 @@
 		"updateUserId": "0",
 		"langCode": "ja",
 		"enumTypeCode": "post",
-		"updateTimestamp": "20170116221450977",
-		"createTimestamp": "20170116221450977"
+		"updateTimestamp": "20170203154502533",
+		"createTimestamp": "20170203154502414"
 	},
 	{
 		"enumTypeName": "Web component type",
@@ -106,8 +106,8 @@
 		"updateUserId": "0",
 		"langCode": "default",
 		"enumTypeCode": "webCompType",
-		"updateTimestamp": "20170116221450983",
-		"createTimestamp": "20170116221450983"
+		"updateTimestamp": "20170203154502540",
+		"createTimestamp": "20170203154502416"
 	},
 	{
 		"enumTypeName": "Webコンポーネントタイプ",
@@ -116,8 +116,8 @@
 		"updateUserId": "0",
 		"langCode": "ja",
 		"enumTypeCode": "webCompType",
-		"updateTimestamp": "20170116221450988",
-		"createTimestamp": "20170116221450988"
+		"updateTimestamp": "20170203154502545",
+		"createTimestamp": "20170203154502419"
 	},
 	{
 		"enumTypeName": "Overwrite mode",
@@ -126,8 +126,8 @@
 		"updateUserId": "0",
 		"langCode": "default",
 		"enumTypeCode": "overwriteMode",
-		"updateTimestamp": "20170116221450993",
-		"createTimestamp": "20170116221450993"
+		"updateTimestamp": "20170203154502551",
+		"createTimestamp": "20170203154502422"
 	},
 	{
 		"enumTypeName": "上書きモード",
@@ -136,8 +136,8 @@
 		"updateUserId": "0",
 		"langCode": "ja",
 		"enumTypeCode": "overwriteMode",
-		"updateTimestamp": "20170116221450998",
-		"createTimestamp": "20170116221450998"
+		"updateTimestamp": "20170203154502556",
+		"createTimestamp": "20170203154502425"
 	},
 	{
 		"enumTypeName": "選択肢サンプル",
@@ -146,8 +146,8 @@
 		"updateUserId": "1000",
 		"langCode": "default",
 		"enumTypeCode": "sampleSelect",
-		"updateTimestamp": "20170118174351162",
-		"createTimestamp": "20170118174351162"
+		"updateTimestamp": "20170203154502559",
+		"createTimestamp": "20170203154502559"
 	},
 	{
 		"enumTypeName": "ファイルタイプ",
@@ -156,7 +156,7 @@
 		"updateUserId": "1000",
 		"langCode": "default",
 		"enumTypeCode": "fileType",
-		"updateTimestamp": "20170125164306076",
-		"createTimestamp": "20170125164306076"
+		"updateTimestamp": "20170203154502572",
+		"createTimestamp": "20170203154502572"
 	}
 ]
