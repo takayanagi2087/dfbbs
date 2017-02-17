@@ -108,8 +108,8 @@ EditForm.prototype.changeStateForAfterUpdate = function() {
 		form.clearData();
 		form.toEditMode();
 		form.parent.toQueryMode();
-		if (qf != null) {
-			qf.changePage();
+		if (rf != null) {
+			rf.changePage();
 		}
 	} else {
 		form.clearData();
