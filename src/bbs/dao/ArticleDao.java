@@ -73,6 +73,7 @@ public class ArticleDao extends Dao {
 			AttachFileTable table = new AttachFileTable();
 			this.setFieldList(table.getFieldList());
 			this.setMainTable(table);
+			this.setOrderByFieldList(new FieldList(table.getSortOrderField()));
 		}
 	}
 
