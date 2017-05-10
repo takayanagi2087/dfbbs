@@ -118,6 +118,10 @@ EditForm.prototype.changeStateForAfterUpdate = function() {
 			rf.changePage();
 		}
 		if (trf.get().is(":visible")) {
+			form.getComponent("threadId").lock(false);
+			var threadId = trf.find("#threadId").val();
+			form.find("#threadId").val(threadId);
+			form.getComponent("threadId").lock(true);
 			trf.changePage();
 		}
 	}
